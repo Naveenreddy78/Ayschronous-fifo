@@ -1,4 +1,4 @@
-module simple_dual_port_ram (
+wmodule simple_dual_port_ram (
     input  wire        wr_clk,
     input  wire        wr_en,
     input  wire [3:0]  wr_addr,
